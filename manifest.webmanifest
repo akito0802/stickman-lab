@@ -1,0 +1,17 @@
+{
+  "name": "Stickman Lab",
+  "short_name": "Stickman Lab",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101827",
+  "theme_color": "#101827",
+  "icons": [
+    {
+      "src": "BAED775A-8B84-4BFD-AD32-08E6B9C8B4D5.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
